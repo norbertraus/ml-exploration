@@ -1,2 +1,5 @@
-# ml-exploration
-ML/AI experimentation
+## ML experimentation 
+
+### Variational Autoencoders
+* MNIST example
+
